@@ -8,6 +8,7 @@ I have no experience or credentials but this whole idea is sound.
 
 This will be an app for ios/android.
 
-Target audience: dog owners
+Target audience: dog owners.
+
 The service will access your location and show you other users nearby. I have many ideas as to how the interface will
 be handled, but for right now, I would like it to be just a swipe and messaging system. Details will come later...
