@@ -2,7 +2,7 @@
 dogs dogs and more dogs
 
 This project was created last year. I had discussed this with my peers but we ended up not taking it on. I want to take
-on this project solo (as it was my idea), and see what happens.
+on this project solo and see what happens.
 
 I have no experience or credentials but this whole idea is sound.
 
