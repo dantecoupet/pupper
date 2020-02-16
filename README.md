@@ -1,5 +1,5 @@
 # pupper
-dogs dogs and more dogs
+arf arf
 
 This project was created last year. I had discussed this with my peers but we ended up not taking it on. I want to take
 on this project solo and see what happens.
